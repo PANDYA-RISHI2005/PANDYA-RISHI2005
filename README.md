@@ -1,22 +1,22 @@
 <!-- ============================================================
      RISHI PANDYA — GITHUB PROFILE README
-     Theme: Data Science · AI · Terminal · Modern Minimal
+     Theme: Data Science · AI · Blue/Cyan · Modern Tech
      ============================================================ -->
 
 <!-- HEADER -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:07111f,100:07111f&height=4&section=header" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0d1b2a,100:07111f&height=180&section=header&text=RISHI%20PANDYA&fontSize=58&fontColor=38bdf8&fontAlignY=52&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI%20%C2%B7%20Computer%20Engineering&descColor=7dd3fc&descSize=14&descAlignY=75" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:06b6d4&height=220&section=header&text=RISHI%20PANDYA&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Computer%20Engineering%20Student%20%C2%B7%20Aspiring%20Data%20Scientist%20%C2%B7%20AI%20Enthusiast&descColor=cffafe&descSize=15&descAlignY=62" />
 
 </div>
+
 
 <!-- TYPING ANIMATION -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%5B+Computer+Engineering+Student+%5D;%5B+Aspiring+Data+Scientist+%5D;%5B+Machine+Learning+Enthusiast+%5D;%5B+AI+%26+Data+Analytics+Explorer+%5D;%5B+Building+Data-Driven+Solutions+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Analyzing+Data+%F0%9F%93%8A+%7C+Finding+Insights+%F0%9F%94%8D;Python+%7C+Data+Science+%7C+Machine+Learning;Building+Data-Driven+Solutions+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%A7%A0" />
 
 </div>
 
@@ -26,13 +26,10 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/●_LEARNING-38bdf8?style=flat-square&labelColor=07111f&color=07111f)
-
-![Focus](https://img.shields.io/badge/DATA_SCIENCE-07111f?style=flat-square&labelColor=07111f&color=07111f)
-
-![Open](https://img.shields.io/badge/Open_to_Internships-38bdf8?style=flat-square&labelColor=07111f&color=07111f)
-
-![Profile Views](https://komarev.com/ghpvc/?username=PANDYA-RISHI2005&style=flat-square&color=07111f&label=PROFILE+VIEWS)
+![Data Science](https://img.shields.io/badge/FOCUS-Data%20Science-06b6d4?style=for-the-badge&labelColor=0f172a)
+![ML](https://img.shields.io/badge/LEARNING-Machine%20Learning-38bdf8?style=for-the-badge&labelColor=0f172a)
+![AI](https://img.shields.io/badge/INTEREST-Artificial%20Intelligence-0ea5e9?style=for-the-badge&labelColor=0f172a)
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Learning-22c55e?style=for-the-badge&labelColor=0f172a)
 
 </div>
 
@@ -40,15 +37,24 @@
 
 ---
 
+# 👨‍💻 About Me
+
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                           │
-│                                                                     │
-│  NAME       →  Rishi Pandya                                        │
-│  ROLE       →  Computer Engineering Student                        │
-│  FOCUS      →  Data Science · ML · AI · Web Development             │
-│  COLLEGE    →  Government Engineering College, Palanpur            │
-│  CGPA       →  9.52 / 10                                            │
-│  LOCATION   →  Gujarat, India                                      │
-│  STATUS     →  [██████████] LEARNING — BUILDING — EXPLORING         │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                         $ python profile.py                          │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  NAME       → Pandya Rishi Kanaiyalal                                │
+│  ROLE       → Computer Engineering Student                           │
+│  FOCUS      → Data Science · Machine Learning · Artificial Intelligence│
+│  COLLEGE    → Government Engineering College, Palanpur               │
+│  EDUCATION  → B.E. Computer Engineering                              │
+│  CGPA       → 9.52 / 10                                              │
+│  LOCATION   → Gujarat, India 🇮🇳                                      │
+│                                                                      │
+│  CURRENTLY  → Learning Data Science & Machine Learning               │
+│  GOAL       → Become a skilled Data Scientist                        │
+│                                                                      │
+│  STATUS     → ██████████ Building • Learning • Improving 🚀          │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
